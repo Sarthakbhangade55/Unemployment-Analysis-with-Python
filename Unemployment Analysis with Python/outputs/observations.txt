@@ -1,0 +1,38 @@
+
+UNEMPLOYMENT ANALYSIS - KEY OBSERVATIONS
+=========================================
+
+1. Dataset:
+The dataset contains 740 cleaned records and
+10 columns.
+
+2. Month-wise Trend:
+The highest average unemployment rate occurred in April
+at approximately 23.64%.
+The lowest occurred in July
+at approximately 9.03%.
+
+3. Regional Analysis:
+The analysis identifies the states/regions with the highest
+average unemployment rates during the study period.
+
+4. Time-Series Analysis:
+Unemployment rates varied considerably across states and over time.
+The COVID-19 period shows a noticeable disruption in unemployment
+patterns.
+
+5. COVID-19 Impact:
+Pre-COVID average unemployment rate: 9.51%
+Post-COVID average unemployment rate: 17.77%
+
+Change: 8.26 percentage points.
+
+6. Correlation:
+The correlation heatmap shows relationships between unemployment,
+employment and labour participation. Correlation should not be
+interpreted as proof of causation.
+
+7. Conclusion:
+The analysis demonstrates clear temporal and regional differences
+in unemployment across India. The COVID-19 period was associated
+with substantial changes in unemployment patterns.
